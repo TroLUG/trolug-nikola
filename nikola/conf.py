@@ -79,7 +79,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
-        ("/archive.html", "Archive"),
+        ("/treffpunkt.html", "Treffpunkt"),
+        ("/termine.html", "Termine"),
+        ("/gruppen.html", "Andere Gruppen"),
+        ("/hilfe.html", "Hilfe"),
+        ("/mailingliste.html", "Mailingliste"),
         ("/impressum.de.html", "Impressum"),
         ("/datenschutz.de.html", "Datenschutzinformation"),
         ("/rss.xml", "RSS feed"),
