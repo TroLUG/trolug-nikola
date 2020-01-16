@@ -27,6 +27,6 @@ Mitmachen
 ---------
 
 Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im 
-Agnes Klein Zentrum der Arbeiterwohlfahrt in Troisdorf statt.
+gnes Klein Zentrum der Arbeiterwohlfahrt in Troisdorf.
 
 Wir tauschen uns auf einer Mailingliste aus.
