@@ -7,6 +7,7 @@ TODO
 * Inhalte von Sphinx nach Nikola kopieren
 * Etherpads einheitlich auf ccc pad umziehen
 * Beraten: Was machen wir mit alten etherpads?
+* Die Terminliste schlau generieren. Tabellen mit ASCII Art zeichnen ist ungeeignet, weil die Titel unterschiedlich lang sind. Als Lösung könnte vielleicht (https://getnikola.com/handbook.html#the-global-context-and-data-files) oder https://getnikola.com/handbook.html#template-based-shortcodes dienen.
 
 Workflow
 --------
