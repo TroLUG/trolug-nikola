@@ -7,7 +7,23 @@ TODO
 * Inhalte von Sphinx nach Nikola kopieren
 * Etherpads einheitlich auf ccc pad umziehen
 * Beraten: Was machen wir mit alten etherpads?
-* Wie soll in Nikola die index.html fuer Seiten, die keine reinen Blogs sind, richtig angelegt werden?
+
+Workflow
+--------
+Besonders praktisch ist die Arbeit mit zwei Terminals.
+
+
+Terminal 1
+nikola auto --browser 
+
+Terminal 2
+git pull
+vim pages/foo.rst
+git commit -m "pages: Termine 2021"
+git push
+# Nun PR erzeugen.
+
+
 
 Links
 -----
