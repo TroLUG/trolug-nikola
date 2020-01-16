@@ -140,6 +140,12 @@ PAGES = (
     ("pages/*.html", "pages", "page.tmpl"),
 )
 
+BASE = (
+    ("*.rst", "", "base.tmpl"),
+    ("*.md", "", "base.tmpl"),
+    ("*.txt", "", "base.tmpl"),
+    ("*.html", "", "base.tmpl"),
+)
 
 # Below this point, everything is optional
 
@@ -503,24 +509,8 @@ FRONT_INDEX_HEADER = {
     DEFAULT_LANG: ''
 }
 
-# Create per-month archives instead of per-year
-# CREATE_MONTHLY_ARCHIVE = False
-# Create one large archive instead of per-year
-# CREATE_SINGLE_ARCHIVE = False
-# Create year, month, and day archives each with a (long) list of posts
-# (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
-# CREATE_FULL_ARCHIVES = False
-# If monthly archives or full archives are created, adds also one archive per day
-# CREATE_DAILY_ARCHIVE = False
-# Create previous, up, next navigation links for archives
-# CREATE_ARCHIVE_NAVIGATION = False
-# Final locations for the archives are:
-# output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
-# output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
-# output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
-# output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
-# ARCHIVE_PATH = ""
-# ARCHIVE_FILENAME = "archive.html"
+ARCHIVE_PATH = ""
+ARCHIVE_FILENAME = "archive.html"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
 # of posts will contain the posts themselves. If set to False, it will be just a
@@ -595,10 +585,7 @@ GITHUB_REMOTE_NAME = 'origin'
 # before deploying.
 GITHUB_COMMIT_SOURCE = True
 
-# Where the output site should be located
-# If you don't use an absolute path, it will be considered as relative
-# to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = 'output'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
