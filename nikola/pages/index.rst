@@ -17,7 +17,7 @@ willkommen.
 Da wir ein loser Zusammenschluß sind, gibt es keine Mitgliedschaft oder 
 ähnliches.
 
-.. image:: /louis_fisch.png
+.. image:: /images/louis_fisch.png
    :width: 300px
    :align: center
    :alt: Louis möchte Fische angeln
