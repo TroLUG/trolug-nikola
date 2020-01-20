@@ -20,7 +20,7 @@ statt:
 
 `TroLUG Treffpunkt auf OpenStreetMap.org <http://osm.org/go/0GISOY8w2?layers=H&way=178490074>`_
 
-.. image:: /troisdorf_awo.jpg
+.. image:: /images/troisdorf_awo.jpg
    :align: center
    :alt: Eingang AWO
 
