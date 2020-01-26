@@ -197,6 +197,7 @@ JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 # Default is:
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
+FILES_FOLDERS = {'oldpads': 'oldpads'}
 
 # One or more folders containing code listings to be processed and published on
 # the site. The format is a dictionary of {source: relative destination}.
