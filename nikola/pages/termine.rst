@@ -23,8 +23,8 @@
   "2020-05-07", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-05>`__"
   "2020-04-02", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-04>`__"
   "2020-03-05", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-03>`__"
-  "2020-02-06", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-02>`__"
-  "2020-01-02", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-01>`__"
+  "2020-02-06", "Jan Grosser", "Linux Monitoring mit Munin", "`Anmeldung <https://trolug.pads.ccc.de/2020-02>`__"
+  "2020-01-02", "alle", "Probleme lösen und Starthilfe für Einsteiger", "`Protokoll <https://trolug.pads.ccc.de/2020-01>`__"
 
 2019
 ----
