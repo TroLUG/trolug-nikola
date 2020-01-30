@@ -57,5 +57,10 @@ Die Mailingliste Professionals at TroLUG kann über
 `https://mailinglistepro.trolug.de <https://mailinglistepro.trolug.de>`_
 abonniert werden.
 
-Diese Liste wurde zwar nicht vom Betreiber bei gmane eingetragen, es wird aber dazu geraten immer nur das an eine Mailingliste zu schreiben, was z.B. nach einem Hackerangriff
-weltweit lesbar sein darf. 
+
+Sichtbarkeit von Beiträgen auf Mailinglisten der TroLUG
+-------------------------------------------------------
+Die obigen Mailinglisten können jederzeit durch Spiegelserver (wie ehemals Gmane) weltweit lesbar gespiegelt werden.
+Es ist technisch für jeden möglich einen Spiegel für diese Mailinglisten einzurichten.
+Es wird dazu geraten an eine Mailingliste nur das zu schreiben, was zu jeder Zeit weltweit lesbar sein darf. 
+
