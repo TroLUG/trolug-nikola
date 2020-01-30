@@ -17,14 +17,12 @@ Raum Köln
   :widths: 15, 20, 45, 20
 
   "Linux-Workshop", "20-30", "Moderierte Diskussion  meist freies Thema", "gelegentlich anspruchsvolle Vorträge, viele User, die beruflich mit Linux zutun haben;  Highlight: `Software Freedom Day Köln <http://sfd.koelnerlinuxtreffen.de/>`_"
-  "LUG-Köln", "0", "keine Treffen mehr", "ging aus Köln-LUG vervor"
-  "Köln-LUG", "0", "keine Treffen mehr", ""
   "Openchaos", "15-40", "Vortrag, dann Fragerunde", "OpenChaos Vortrag: Der Chaos Computer Club Cologne (C4) lädt jeden letzten Donnerstag im Monat ein (außer Dezember), Newsletter abonnieren"
-  "TeX-Stammtisch Köln", "4-15", "gelegentliche Vorträge", "seit 2014-08 findet das Treffen in der `Dingfabrik <http://dingfabrik.de/>`_ statt"
   "Python User Group Köln", "", "Jeweils 2. Mittwoch im Monat außer Dezember 19.00h im C4 sehr aktiv, Tipp: `Python Barcamp <http://pythoncamp.de/>`_ "
   "Computerclub Pascal", "", "", ""
   "R Benutzer Treffen Köln", "", "", "die Mehrzahl der Teilnehmer verwendet R beruflich"
-  "Cologne.rb", "20-40", "Vorträge plus offenes Ende", "Wechselnder Ort innerhalb Kölns, immer auf der Webseite zu finden"
+  "Cologne.rb", "", "", "Wechselnder Ort in Köln laut `Webseite <https://www.colognerb.de/>`_ "
+  "Freifunk Troisdorf", "", "", "https://freifunk-troisdorf.de/"
   "Freifunk Köln-Bonn-Umgebung", "", "Treffen finden abwechselnd in Köln (C4) und in Bonn (Netzladen) statt."
   "FSFE Fellowship Treffen Bonn", "", "Vorträge plus offenes Ende", "Jeweils 2. Montag im Monat 19.00h, Netzladen, Breite Str.74, Bonn"
 
