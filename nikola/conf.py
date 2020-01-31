@@ -17,7 +17,8 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Jonas Stein"  # (translatable)
-BLOG_TITLE = "Troisdorfer Linux User Group TroLUG"  # (translatable)
+#BLOG_TITLE = "Troisdorfer Linux User Group TroLUG"  # (translatable)
+BLOG_TITLE = "TroLUG"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://trolug.de/"
