@@ -21,10 +21,10 @@ BLOG_AUTHOR = "Jonas Stein"  # (translatable)
 BLOG_TITLE = "TroLUG"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://trolug.de/"
+SITE_URL = "http://www.trolug.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://trolug.de/"
+# BASE_URL = "https://www.trolug.de/"
 BLOG_EMAIL = "news@jonasstein.de"
 BLOG_DESCRIPTION = "Troisdorfer Linux User Group TroLUG"  # (translatable)
 
