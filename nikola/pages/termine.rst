@@ -9,22 +9,10 @@
 2020
 ----
 
-.. csv-table::
+.. csv-table:: 
+  :file: pages/2020.csv
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 45, 20
-
-  "2020-12-03", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-12>`__"
-  "2020-11-05", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-11>`__"
-  "2020-10-01", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-10>`__"
-  "2020-09-03", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-09>`__"
-  "2020-08-06", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-08>`__"
-  "2020-07-02", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-07>`__"
-  "2020-06-04", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-06>`__"
-  "2020-05-07", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-05>`__"
-  "2020-04-02", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-04>`__"
-  "2020-03-05", "alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2020-03>`__"
-  "2020-02-06", "Jan Grosser", "Linux Monitoring mit Munin", "`Anmeldung <https://trolug.pads.ccc.de/2020-02>`__"
-  "2020-01-02", "alle", "Probleme lösen und Starthilfe für Einsteiger", "`Protokoll <https://trolug.pads.ccc.de/2020-01>`__"
 
 2019
 ----
