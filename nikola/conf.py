@@ -21,10 +21,10 @@ BLOG_AUTHOR = "Jonas Stein"  # (translatable)
 BLOG_TITLE = "TroLUG"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://trolug.de/"
+SITE_URL = "http://www.trolug.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://trolug.de/"
+# BASE_URL = "https://www.trolug.de/"
 BLOG_EMAIL = "news@jonasstein.de"
 BLOG_DESCRIPTION = "Troisdorfer Linux User Group TroLUG"  # (translatable)
 
@@ -280,7 +280,8 @@ JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 # Default is:
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
-FILES_FOLDERS = {'oldpads': 'oldpads'}
+FILES_FOLDERS = {'oldpads': 'oldpads',
+        'files': 'files'}
 
 # One or more folders containing code listings to be processed and published on
 # the site. The format is a dictionary of {source: relative destination}.
@@ -897,6 +898,9 @@ IMAGE_FOLDERS = {'images': 'images'}
 #     ("icon", "/favicon.ico", "16x16"),
 #     ("icon", "/icon_128x128.png", "128x128"),
 # )
+FAVICONS = (
+        ("icon", "/files/favicon.ico", "16x16"),
+        )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
