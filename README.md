@@ -1,19 +1,11 @@
 # trolug-nikola
 TroLUG Website in Nikola
 
-TODO
-----
-* akzeptables Template finden oder selbst schreiben (100% legal, keine designs kopieren!)
-* Etherpads einheitlich auf ccc pad umziehen
-* Beraten: Was machen wir mit alten etherpads?
-* Können wir die Blogfunktion sinnvoll einsetzen, um eine Seite pro Treffen zu verwalten?
-* Die Terminliste schlau generieren. Tabellen mit ASCII Art zeichnen ist ungeeignet, weil die Titel unterschiedlich lang sind. Als Lösung könnte vielleicht (https://getnikola.com/handbook.html#the-global-context-and-data-files) oder https://getnikola.com/handbook.html#template-based-shortcodes dienen.
-
 
 Nikola
 ------
 Zum Bau der Webseite wird Nikola 8.x verwendet.
-Falls diese Version in der vorliegenden Distribution nicht mitgeliefert wird, kann eine virtual environment helfen:
+Falls diese Version in der vorliegenden Distribution nicht mitgeliefert wird, kann ein virtual environment helfen:
 
     mkdir nikola-env
     python3 -m venv nikola-env/
@@ -23,7 +15,7 @@ Falls diese Version in der vorliegenden Distribution nicht mitgeliefert wird, ka
 
 Workflow
 --------
-Besonders praktisch ist die Arbeit mit zwei Terminals.
+Praktisch ist die Arbeit mit zwei Terminals.
 
 
     Terminal 1
@@ -37,9 +29,18 @@ Besonders praktisch ist die Arbeit mit zwei Terminals.
     # Nun PR erzeugen.
 
 
+TODO
+----
+* akzeptables Template finden oder selbst schreiben (100% legal, keine designs kopieren!)
+* Etherpads einheitlich auf ccc pad umziehen
+* Beraten: Was machen wir mit alten etherpads?
+* Können wir die Blogfunktion sinnvoll einsetzen, um eine Seite pro Treffen zu verwalten?
+
+
 DONE
 ----
 * Inhalte von Sphinx nach Nikola kopieren
+* Die Terminliste schlau generieren. Tabellen mit ASCII Art zeichnen ist ungeeignet, weil die Titel unterschiedlich lang sind. Als Lösung könnte vielleicht (https://getnikola.com/handbook.html#the-global-context-and-data-files) oder https://getnikola.com/handbook.html#template-based-shortcodes dienen. CSV Tabellen funktionieren wieder. Danke Jan.
 
 
 Links
