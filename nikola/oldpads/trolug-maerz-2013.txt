@@ -9,7 +9,7 @@ Wer kommt und was kann angeboten werden?
 	* Jonas (kommt nach eigenen Angaben nicht)
 		* Thema: Dateien umwandeln, Suchen und Ersetzen mit sed
 		* Thema: GNU R Statistik und Diagramme
-	* Joel
+	* Julia
 		* Thema: Amazon Kindle unter Linux (vielleicht ein anderes mal, gerade ist das etwas schwierig)
 		* Thema: Suchen und ersetzen mit sed - wenn Jonas nicht kann ;)
 	* Norbert

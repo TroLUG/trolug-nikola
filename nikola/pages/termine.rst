@@ -142,7 +142,7 @@
   "2014-06-05", "Torben Keil", "IPv6", "`Protokoll </oldpads/trolug-juni-2014.txt>`__, `Vortragsfolien <http://downloads.trolug.de/2014-06-05_trolug_torben_keil_ipv6.pdf>`__"
   "2014-05-08", "Andreas Klein", "Linux Kernel bauen", "`Protokoll </oldpads/trolug-mai-2014.txt>`__"
   "2014-04-03", "Johannes Hubertz", "Versionskontrollsystem git", "`Protokoll </oldpads/trolug-april-2014.txt>`__, `Vortragsfolien <http://downloads.trolug.de/2014-04-03_trolug_johannes_hubertz_git.pdf>`__"
-  "2014-03-06", "Joel Garske", "Internet. Wofür es war und warum es kaputt ist.", "`Protokoll </oldpads/trolug-maerz-2014.txt>`__"
+  "2014-03-06", "Julia Garske", "Internet. Wofür es war und warum es kaputt ist.", "`Protokoll </oldpads/trolug-maerz-2014.txt>`__"
   "2014-02-06", "Jan Grosser, Dimitri Asarowski", "Einplatinenrechner und ihre Anwendungsmöglichkeiten", "`Protokoll </oldpads/trolug-februar-2014.txt>`__"
   "2014-01-30", "Rainer Dohmen", "Alles in Sync - Kalender u. Kontakte im Gleichklang", "`Protokoll </oldpads/trolug-januar-2014.txt>`__"
   "2014-01", " ", "Jubiläum: 5 Jahre TroLUG", ""
@@ -176,12 +176,12 @@
   :widths: 15, 20, 50, 15
 
   "2012-12-06", "alle", "Rückblick FrOSCon und Weihnachtsfeier", "-"
-  "2012-11-01", "Joel Garske", "KMail, timidity u.a.", "-"
+  "2012-11-01", "Julia Garske", "KMail, timidity u.a.", "-"
   "2012-10-04", "alle", "offener Themenabend Manipulation von PDF-Dokumenten Arbeiten mit der Konsole", "-"
   "2012-09-06", "Moritz und Moritz", "Hands On Emacs", "-"
   "2012-08-02", "alle", "FrOSCon Organisation", "-"
   "2012-07-05", "Jonas Stein", "Distributionen im Vergleich", "-"
-  "2012-06-07", "Joel Garske", "OpenWRT", "-"
+  "2012-06-07", "Julia Garske", "OpenWRT", "-"
   "2012-05-03", "alle", "Präsentationen mit LaTeX, GNU-R, Unterschied su und sudo, QR-Codes, de- und encodieren, Bash-History", "`Protokoll </oldpads/trolug-mai-2012.txt>`__"
   "2012-04-05", "alle", "offener Themenabend", "-"
   "2012-03-01", "alle", "1. GIMP 2. QLandkarte", "-"
