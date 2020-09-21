@@ -10,25 +10,39 @@ Welche Linux Distribution ist das richtige für mich?
 Für Neueinsteiger ist es hilfreich eine der am meisten verbreiteten Distributionen zu installieren,
 denn bei Problemen und Fragen finden sich so möglichst viele Helfer und sie sind oft umfangreich dokumentiert.
 
-Aktuell (2015-05-16) ist Linux Mint Mate besonders stark verbreitet.
+Im privaten Bereich ist Linux Mint Mate / Cinnamon besonders stark verbreitet.
 
-* http://distrowatch.com/ Vergleicht Linux Distributionen
-* http://www.linuxmint.de/ 
+Die aktuellste Version 20 Linux Mint Ulyana ist ein "Long term support release" (LTS) welches bis April 2025 unterstützt wird.
+[Stand 2020-09-07)
+
+* https://linuxmint.com/ 
+
+
+ 
+* https://distrowatch.com/ Vergleicht Linux Distributionen (für die schon erste Erfahrungen gesammelt haben)
    
 
 Welche Hardware wird unterstützt?
 ---------------------------------
 
-* http://wiki.ubuntuusers.de/Hardwaredatenbank (de)
-* http://de.opensuse.org/Hardware (de)
-* http://www.linux.com/news/hardware/drivers/8203-is-my-hardware-linux-compatible-find-out-here (en)
-* http://www.linuxquestions.org/hcl/ (en)
-* http://tuxmobil.de/ (de)
+* https://wiki.ubuntuusers.de/Hardwaredatenbanken/ (de)
+* https://de.opensuse.org/Hardware (de)
+* https://www.linux.com/topic/hardware/ (en)
+* https://www.linuxquestions.org/hcl/ (en) aktuell keine Berechtigung, auch angemeldete Mitglieder nicht
+
+Kann ich Linux auch ausprobieren?
+---------------------------------
+
+Mit einen Live System von CD/DVD kann man ohne Installation Linux laufen lassen
+z.B. hier erhältlich  https://www.knopper.net/knoppix/ 
+
+Mit einen Live-System kann mit folgenden Befehl seine Hardware mit Linux identifizieren:
+
 * ``lspci -k`` listet welches Kernelmodul gerade welche Hardware bedient, ``lspci -n`` listet die Device ID
  
 Welcher Drucker wird optimal unterstützt?
 -----------------------------------------
-* http://www.openprinting.org/printer_list.cgi (en)
+* https://www.openprinting.org/printer_list.cgi (en)
 * http://gutenprint.sourceforge.net/p_Supported_Printers.php (en)
 
 Messtechnik für Linux
@@ -41,7 +55,7 @@ Von SANE unterstützte Scanner
 
 Ich suche ein Howto
 -------------------
-* http://tldp.org/ the Linux Documentation Project (en, international)
+* https://tldp.org/ the Linux Documentation Project (en, international)
 
 Wo ist die Anleitung zu Programm ``foobar`` (Beispiel)
 ------------------------------------------------------
@@ -61,6 +75,6 @@ Empfehlenswerte IRC-Programme
 -----------------------------
 
 * https://pidgin.im Pidgin, der universelle Multi-Protokoll Client
-* http://www.quassel-irc.org/ Quassel IRC, moderner, distributed IRC-Client
-* http://irssi.org/ Irssi, flexibel anpaßbarer IRC-Client für die Linux-Konsole
-* http://weechat.org/ WeeChat, schneller, schlanker und erweiterbarer Chat Client für die Konsole
+* https://www.quassel-irc.org/ Quassel IRC, moderner, distributed IRC-Client
+* https://irssi.org/ Irssi, flexibel anpaßbarer IRC-Client für die Linux-Konsole
+* https://weechat.org/ WeeChat, schneller, schlanker und erweiterbarer Chat Client für die Konsole
