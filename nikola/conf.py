@@ -256,11 +256,14 @@ TIMEZONE = "Europe/Berlin"
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-DATE_FORMAT = 'YYYY-MM-dd HH:mm'
+DATE_FORMAT = 'yyyy-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
-# Used by moment.js: https://momentjs.com/docs/#/displaying/format/
-JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
+# Used by Luxon: https://moment.github.io/luxon/docs/manual/formatting
+# Example for presets: {'preset': True, 'format': 'DATE_FULL'}
+LUXON_DATE_FORMAT = {
+    DEFAULT_LANG: {'preset': False, 'format': 'yyyy-MM-dd HH:mm'},
+}
 
 # Date fanciness.
 #
@@ -269,7 +272,7 @@ JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 # 2 = using a string like “2 days ago”
 #
 # Your theme must support it, Bootstrap already does.
-# DATE_FANCINESS = 0
+DATE_FANCINESS = 0
 
 # Customize the locale/region used for a language.
 # For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
