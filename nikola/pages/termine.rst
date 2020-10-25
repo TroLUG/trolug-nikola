@@ -5,6 +5,13 @@
 .. link:
 .. description: Terminliste der TroLUG
 
+2021
+----
+
+.. csv-table:: 
+  :file: pages/2021.csv
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 15, 20, 45, 20
 
 2020
 ----
