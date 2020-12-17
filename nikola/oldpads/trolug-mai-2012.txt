@@ -7,7 +7,7 @@ Wer kommt? Ggf. Tiemenwunsch/Themenangebot
 	* "Distri"-Abend (s. Pad für Vorschläge) unter: http://pad.jjim.de/p/trolug-vorschlaege-themen (Rainer)
 	* Maic wenn er es zeitlich schafft.
 	* Rainer hätte auch nix gegen PGP unter Thunderbird, aber könnte "nur" als Konsument bzw. Zuhörer dienen ;-)
-	* Joel kommt - koennte zu PGP was sagen, allerdings auch aus aktuellem Anlass zu apt-dater und dem google authenticator pam modul. Jonas wuerde ja offensichtlich GPG schon abdecken.
+	* Julia kommt - koennte zu PGP was sagen, allerdings auch aus aktuellem Anlass zu apt-dater und dem google authenticator pam modul. Jonas wuerde ja offensichtlich GPG schon abdecken.
 
 
 

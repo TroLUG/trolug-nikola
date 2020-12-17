@@ -6,7 +6,7 @@ Wer kommt?
 	* Rainer
 	* Isa
 	* Andreas
-	* Joel
+	* Julia
 	* Jan
 	* Sebastian (lug-myk)
 	* Ansgar (lug-myk)
@@ -35,12 +35,12 @@ Wer kommt?
 Vorschläge für den 2. Teil:
 	* Warum benutze ich lieber Linux als Windows (oder Mac OS oder oder) , am liebsten mit praktischem Beispiel (jeder 1, dann sollte doch etwas zusammen kommen)?
 	Ich mache es an einem Beispiel fest (welches ich auch gerne zeigen kann: Bilder mit einem (Konsolen-)Einzeiler verkleinern, so viele wie im Verzeichnis liegen (von Rainer).
-	Joel sagt: So lange das nicht in einen Krieg ausartet: +1 :)
+	Julia sagt: So lange das nicht in einen Krieg ausartet: +1 :)
 	Auch ich würde dann gerne einen Tipp zum Besten geben +1 ;-)
 	
 
 	* Die  Idee in der Art eines regelmäßigen Best Practise Meetings, bei dem Jeder der möchte einen kleinen Praxis-Tipp vorstellen darf, fände ich gut.
-	Joel sagt: Das als Best Practice Meeting zu bezeichnen ist allerdings etwas schwierig. Best Current Practises (oder BCPs) kenn ich eigentlich nur aus dem Unternehmenskontext und halte es fuer etwas hinderlich, die Ansichten einzelner Nutzer als Best Practise vorzustellen wo es doch eigentlich um Vielseitigkeit und Austausch geht - oder ist Best Practise gerade so ein Wort? Macht es nicht eher Sinn, BCPs in Umfeldern zu definieren, in denen Einheitlichkeit notwendig und wichtig ist und sollte man nicht sonst eher auf Vielseitigkeit setzen? 
+	Julia sagt: Das als Best Practice Meeting zu bezeichnen ist allerdings etwas schwierig. Best Current Practises (oder BCPs) kenn ich eigentlich nur aus dem Unternehmenskontext und halte es fuer etwas hinderlich, die Ansichten einzelner Nutzer als Best Practise vorzustellen wo es doch eigentlich um Vielseitigkeit und Austausch geht - oder ist Best Practise gerade so ein Wort? Macht es nicht eher Sinn, BCPs in Umfeldern zu definieren, in denen Einheitlichkeit notwendig und wichtig ist und sollte man nicht sonst eher auf Vielseitigkeit setzen? 
 	Austausch von Tips ist allerdings immer ne gute Sache.
 
 	* Veranstaltungstipp: Die OSM Gruppe Bonn veranstaltet kurz darauf eine Openstreetmap Frage-Antwort Runde und zwar am Freitag, den 8.11.13 in Königswinter.

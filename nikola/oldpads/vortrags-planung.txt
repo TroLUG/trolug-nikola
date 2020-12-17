@@ -27,7 +27,7 @@ Ideen, noch nicht terminiert (unsortiert):
 	* Security im Allgemeinen, z. B. welche Software sollte unter diesen Aspekten nach "Best Practices" installiert sein, was ist bei der
 	Konfiguration zu beachten
 	(hier glaube ich haben wir in der TroLUG jede Menge Mitglieder mit dem entsprechenden Know-how)
-	* Bash Kurs: Grundlagen (Variablen, export, Pfade, escapen etc.) bist hin zur Shell Programmierung / eigene Shellskripte erstellen. (Könnte mir vostellen dass uns Joel hier ziemlich fit ist, um uns das Nahe zu bringen ;-) Welches Niveau? Änfänger/Mittel/Fortgeschrittene? 
+	* Bash Kurs: Grundlagen (Variablen, export, Pfade, escapen etc.) bist hin zur Shell Programmierung / eigene Shellskripte erstellen. (Könnte mir vostellen dass uns Julia hier ziemlich fit ist, um uns das Nahe zu bringen ;-) Welches Niveau? Änfänger/Mittel/Fortgeschrittene? 
 	* Pyhton Kurs: Grundlagen (Gibt sicher auch Einige die dazu etwas sagen könnten.
 	* VIM Kurs: Hatten wir schon mal, wirkt Wunder gegen Unverträglichkeiten ;-)
 	* OpenWRT (Wunsch von Jonas)

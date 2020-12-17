@@ -43,27 +43,27 @@ Da man nen Haufen verschiedener Sachen braucht, um so einen Rechner ans Laufen z
 
 Hardware:
 	* Gehaeuse:
-		* Joel hat noch ein MicroATX (Low Profile) Gehaeuse mit Netzteil, wo Dimitris Mainboard leider nicht reinpasst. er bringts trotzdem mal mit.
+		* Julia hat noch ein MicroATX (Low Profile) Gehaeuse mit Netzteil, wo Dimitris Mainboard leider nicht reinpasst. er bringts trotzdem mal mit.
 	* Netzteile:
-		* Joel sagt: siehe "Gehaeuse"
+		* Julia sagt: siehe "Gehaeuse"
 	* Mainboards:
 	* CPUs:
 		* Kein Bedarf?
 	* Arbeitsspeicher:
-		* DDR2-Ram bringt Joel mit
+		* DDR2-Ram bringt Julia mit
 	* Erweiterungskarten:
 		* Rainer: Kann Ethernetkarte mitbringen (PCI), falls Board kein Netzwerk hat
-		* Joel hat auch noch Grafikkarten fuer AGP und evtl. auch PCI in der Restekiste
+		* Julia hat auch noch Grafikkarten fuer AGP und evtl. auch PCI in der Restekiste
 	* Wechseldatentraeger (floppy, cd, dvd, sowat all):
 	* Festspeicher (HDDs, DoCs, Flashspeicher...):
 		* Maic hat eine 40 GB ATA HDD die er dafür mitbringen könnte.
-		* Joel bringt eine 80er S-ATA und eine 40er IDE mit
+		* Julia bringt eine 80er S-ATA und eine 40er IDE mit
 	* WICHTIG! Kabel:
 		* f. Bussysteme
-			* Joel bringt zumindest mal ein S-ATA Kabel mit
-			* Joel bringt auch ein IDE Kabel mit
+			* Julia bringt zumindest mal ein S-ATA Kabel mit
+			* Julia bringt auch ein IDE Kabel mit
 		* f. Stromversorgung
-			* Joel: bringt einen 4-pol -> S-ATA Adapter mit
+			* Julia: bringt einen 4-pol -> S-ATA Adapter mit
 	* Auch halbwegs wichtig: Belueftungs- und Kuehlsysteme fuer die verwendeten CPUs... es sei denn, wir pusten alle mal kraeftig
 	* Eingabe/Ausgabe
 		* Rainer: Tastatur und Maus über PS/2, zumindest leihweise kann ich mitbringen
@@ -89,7 +89,7 @@ bei der TroLUG stehen zu haben für Experimente, Installationen, Problembewälti
 
 Aufteilung in verschiedene Gruppen:
 	* alle (Koordination über dieses Pad): Ziel der Aktion (s. Software)
-		* Joel Versucht mal die Aufgaben der Gruppen entwurfsweise zu definieren, damit sich jeder der mitmachen will vielleicht schonmal irgendwo wiederfindet.
+		* Julia Versucht mal die Aufgaben der Gruppen entwurfsweise zu definieren, damit sich jeder der mitmachen will vielleicht schonmal irgendwo wiederfindet.
 	* Gruppe 1: die Hardware-Schrauber
 		* primaere Aufgabe waere es dann wohl, in Absprache mit Gruppe 2 eine allgemein funktionstuechtige Hardware aus den zur Verfuegung stehenden Mitteln zusammenzustellen und zu bauen
 		* sekundaere Aufgabe waere es, sich um die Unterstuetzung und Integration in die von Gruppe 2 gewaehlte Distribution zu kuemmern, sofern norwendig
@@ -100,7 +100,7 @@ Aufteilung in verschiedene Gruppen:
 		* primaere Aufgabe waere es, die fertige Loesung von Gruppe 2 zu uebernehmen und nach deren Maszgaben und Dokumentation zu testen was alles geht.
 		* sekundaere Aufgabe waere es, Verbesserungsvorschlaege zu machen und Fehler und Probleme mit Hard- und Software mit den entsprechenden Leuten aus G1 und G2 zu loesen
 
-Ob die Aufteilung in Gruppen so unglaublch sinnig ist, ist die Frage. Die Taetigkeiten laufen ja groesstenteils nacheinander ab. Nicht dass dann die anderen rumsitzen. Prinzipiell sind so schwerpunkte aber sehr gut. Joel ergaenzt seine Bedenken allerdings spaeter um die Relativierung, dass man Software schon sehr wohl planen kann, wenn man noch keine Hardware hat. Die einzigen, die doof herumsitzen koennten waeren die Tester... aber auch die bekommt man irgendwie eingebunden. Wenn wir das in mehrere Termine aufteilen ist das nicht so relevant
+Ob die Aufteilung in Gruppen so unglaublch sinnig ist, ist die Frage. Die Taetigkeiten laufen ja groesstenteils nacheinander ab. Nicht dass dann die anderen rumsitzen. Prinzipiell sind so schwerpunkte aber sehr gut. Julia ergaenzt seine Bedenken allerdings spaeter um die Relativierung, dass man Software schon sehr wohl planen kann, wenn man noch keine Hardware hat. Die einzigen, die doof herumsitzen koennten waeren die Tester... aber auch die bekommt man irgendwie eingebunden. Wenn wir das in mehrere Termine aufteilen ist das nicht so relevant
 zu den Gruppen: Es besteht ja nicht der Zwang, dass jeder nur 1 Gruppe angehört, z. B. könnten die Softwareplaner nachher auch Tester sein, oder jemand bringt nur seine Ideen ein und testet nur oder schraubt nur oder oder oder
 
 Vielleicht waere es schoen, wenn jemand waehrend der Hardware-Schrauberei was zu dem Aufbau eines PCs sagt und vielleicht die Auswahl der Komponenten irgendwie begruendet wird.

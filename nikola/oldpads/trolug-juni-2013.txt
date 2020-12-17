@@ -2,7 +2,7 @@ TroLUG Treffen 06.06.2013
 
 A) Wer kommt? (Anmeldungen bitte hier hin)
 
-	* Joel
+	* Julia
 	* Norbert (mit Klapprechner)
 	* Christof
 	* Jonas
@@ -20,7 +20,7 @@ B) Themen
 		* kleiner Trick zum Erstellen von individuellen Verteilerlisten (von  Rainer), getestet mit Thunderbird und Outlook (wer's denn braucht /  brauchen muß)
 		* Installieren von Wörterbüchern z.B: http://qvortaro.berlios.de/install.php (Frage von Norbert)
 		* Installieren von vlc für OpenSuse (auch von Norbert)
-		* Keysigning - "Party" zum Austausch von PGP/GPG Schlüsseln innerhalb der TroLUG (Jonas macht mit) - machen wir naechstes mal, ich hab verpeilt, da die Vorbereitungsschritte fuer die Leute rumzuschicken - Joel
+		* Keysigning - "Party" zum Austausch von PGP/GPG Schlüsseln innerhalb der TroLUG (Jonas macht mit) - machen wir naechstes mal, ich hab verpeilt, da die Vorbereitungsschritte fuer die Leute rumzuschicken - Julia
 		* QElectrotech: Eine Software zum Erstellen von Elektrotechnikplänen. Jonas hat an Übersetzungen etwas mitgewirkt und die Symbolbibliothek erweitert und kann zeigen wie sowas einfach geht. Und wie man schnell einen professionellen Plan zeichnet.
 
 
