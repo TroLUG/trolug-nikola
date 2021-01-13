@@ -46,4 +46,6 @@ Landesweit
 `LUG Liste auf pro-linux.de <http://www.pro-linux.de/lugs/>`_
 
 
+`WupLUG <https://www.wuplug.org/>`_
 
+`Adminstammtisch Berlin <https://www.flarp.de/>`_
