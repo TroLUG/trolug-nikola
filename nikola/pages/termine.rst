@@ -5,6 +5,8 @@
 .. link:
 .. description: Terminliste der TroLUG
 
+Solange die Pandemie anhält treffen wir uns online.
+
 2021
 ----
 
