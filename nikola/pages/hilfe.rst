@@ -65,16 +65,18 @@ Wo ist die Anleitung zu Programm ``foobar`` (Beispiel)
 
 Wo finde ich den IRC Channel der TroLUG?
 ----------------------------------------
-Auf `freenode <https://freenode.net>`_ existiert der Channel #trolug, in welchem
+Auf `Libera.Chat <https://libera.chat/>`_ existiert der Channel #trolug, in welchem
 sich TroLUGer und Interessierte zu den verschiedensten Themen schnell und in
-Echtzeit austauschen können.
+Echtzeit austauschen können. 
 
-* Join TroLUG IRC Channel: irc://irc.freenode.net/trolug
+* #trolug per IRC Client irc://irc.libera.chat/trolug
+* `#trolug per Webclient mibbit <https://chat.mibbit.com/?url=irc%3A%2F%2Firc.libera.chat%2Ftrolug>`_
+
 
 Empfehlenswerte IRC-Programme
 -----------------------------
 
 * https://pidgin.im Pidgin, der universelle Multi-Protokoll Client
 * https://www.quassel-irc.org/ Quassel IRC, moderner, distributed IRC-Client
-* https://irssi.org/ Irssi, flexibel anpaßbarer IRC-Client für die Linux-Konsole
+* https://irssi.org/ Irssi, flexibel anpassbarer IRC-Client für die Konsole
 * https://weechat.org/ WeeChat, schneller, schlanker und erweiterbarer Chat Client für die Konsole
