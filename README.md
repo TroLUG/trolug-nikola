@@ -5,12 +5,7 @@ TroLUG Website in Nikola
 Nikola
 ------
 Zum Bau der Webseite wird Nikola 8.x verwendet.
-Falls diese Version in der vorliegenden Distribution nicht mitgeliefert wird, kann ein virtual environment helfen:
-
-    mkdir nikola-env
-    python3 -m venv nikola-env/
-    source nikola-env/bin/activate
-    pip install nikola
+Falls diese Version in der vorliegenden Distribution nicht mitgeliefert wird, kann ein virtual environment helfen.
 
 
 Workflow
