@@ -7,6 +7,16 @@
 
 Solange die Pandemie anhält treffen wir uns online.
 
+
+2023
+----
+
+.. csv-table:: 
+  :file: pages/2023.csv
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 15, 20, 45, 20
+
+
 2022
 ----
 
