@@ -22,7 +22,7 @@ Solange die Pandemie anhält treffen wir uns online.
 
 .. csv-table:: 
   :file: pages/2022.csv
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
 2021
@@ -30,7 +30,7 @@ Solange die Pandemie anhält treffen wir uns online.
 
 .. csv-table:: 
   :file: pages/2021.csv
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
 2020
@@ -38,14 +38,14 @@ Solange die Pandemie anhält treffen wir uns online.
 
 .. csv-table:: 
   :file: pages/2020.csv
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
 2019
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
   "2019-12-05", "Alle", "Thema noch offen", "`Protokoll <https://trolug.pads.ccc.de/2019-12>`__"
@@ -66,72 +66,72 @@ Solange die Pandemie anhält treffen wir uns online.
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
-  "2018-12-06", "Michael Dupre", "plantuml", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`__"
-  "2018-11-01", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-11-01>`__"
-  "2018-10-04", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-10-04>`__"
-  "2018-09-06", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-09-06>`__"
-  "2018-08-02", "Rainer Dohmen", "FHEM - Heimautomation mit Raspberry Pi", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-08-02>`__"
-  "2018-07-05", "Alle", "Mozilla und Wireshark", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-07-05>`__"
-  "2018-06-07", "Michael Dupre", "IP-Tracer (mit Graphik und Einführung in gnuplot)", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-06-07>`__, `Files <http://downloads.trolug.de/2018-06-18-michael_dupre_gnuplot.tar.gz>`__"
-  "2018-05-03", "Harald Weidner", "Penetration Testing mit Nmap und OpenVAS", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-05-03>`__"
-  "2018-04-05", "Alle", "Lieblingstools kurz vorgestellt", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-04-05>`__"
-  "2018-03-01", "Andreas Klein", "Xrandr", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-03-01>`__"
-  "2018-02-01", "Harald Weidner", "Anwendungsvirtualisierung in Containern mit Docker", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`__"
-  "2018-01-04", "Michael Dupre, Alle", "Client/Server mit Skriptsprache programmieren (mit und ohne TLS)", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-01-04>`__"
+  "2018-12-06", "Michael Dupre", "plantuml", " "
+  "2018-11-01", "Alle", "Thema noch offen", " "
+  "2018-10-04", "Alle", "Thema noch offen", " "
+  "2018-09-06", "Alle", "Thema noch offen", " "
+  "2018-08-02", "Rainer Dohmen", "FHEM - Heimautomation mit Raspberry Pi", " "
+  "2018-07-05", "Alle", "Mozilla und Wireshark", " "
+  "2018-06-07", "Michael Dupre", "IP-Tracer (mit Graphik und Einführung in gnuplot)", " "
+  "2018-05-03", "Harald Weidner", "Penetration Testing mit Nmap und OpenVAS", " "
+  "2018-04-05", "Alle", "Lieblingstools kurz vorgestellt", " "
+  "2018-03-01", "Andreas Klein", "Xrandr", " "
+  "2018-02-01", "Harald Weidner", "Anwendungsvirtualisierung in Containern mit Docker", " "
+  "2018-01-04", "Michael Dupre, Alle", "Client/Server mit Skriptsprache programmieren (mit und ohne TLS)", " "
 
 
 2017
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
-  "2017-12-07", "Alle", "Wikipedia editieren", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`__" 
-  "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`__" 
-  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`__, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`__"
-  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`__, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`__" 
-  "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`__" 
-  "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-07-06>`__" 
-  "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", ""
-  "2017-06-01", "Alle", "Rund um Android", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-06-01>`__" 
-  "2017-05-04", "Andreas Klein; Jan Grosser", "BIOS-Update unter Linux, Monitor-Konfig; Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-05-04>`__" 
-  "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-04-06>`__" 
-  "2017-03-02", "Johannes Hubertz", "Test Driven Development", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`__" 
-  "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-02-02>`__"  
-  "2017-01-05", "Alle", "Aktuelle Sicherheitsfragen Browserplugins, Passwortsafe, Mail", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-01-05>`__" 
+  "2017-12-07", "Alle", "Wikipedia editieren", " "
+  "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", " "
+  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`__"
+  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`__" 
+  "2017-08-03", "Johannes Hubertz", "OpenVPN", " "
+  "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", " "
+  "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", " "
+  "2017-06-01", "Alle", "Rund um Android", " "
+  "2017-05-04", "Andreas Klein; Jan Grosser", "BIOS-Update unter Linux, Monitor-Konfig; Nistkastenkamera", " "
+  "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", " "
+  "2017-03-02", "Johannes Hubertz", "Test Driven Development", " "
+  "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", " "
+  "2017-01-05", "Alle", "Aktuelle Sicherheitsfragen Browserplugins, Passwortsafe, Mail", " "
 
 2016
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
-  "2016-12-01", "Kay Malfeld", "Einstieg in Kernelprogrammierung und make files", "`Protokoll <https://trolug.titanpad.com/2016-12-01>`__" 
-  "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Protokoll <https://trolug.titanpad.com/2016-11-03>`__" 
-  "2016-10-06", "Verschiedene", "Bash Kungfu", "`Protokoll <https://trolug.titanpad.com/2016-10-06>`__" 
-  "2016-09-01", "Verschiedene", "Editoren", "`Protokoll <https://trolug.titanpad.com/2016-09-01>`__" 
-  "2016-08-04", "Rainer Dohmen; Georg Maubach", "Mikrocontrollerprojekt Morse-Man; Access Points mit Einplatinenrechnern", "`Protokoll <https://trolug.titanpad.com/2016-08-04>`__" 
-  "2016-07-07", "Alle", "Gemeinsam Probleme lösen", "`Protokoll <https://trolug.titanpad.com/2016-07-07>`__" 
-  "2016-06-02", "Tobias Fröhlich", "git Teil III: Arbeiten in Teams und auf Servern", "`Protokoll <https://trolug.titanpad.com/2016-06-02>`__, `Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`__"
-  "2016-05-28", "Torben Keil", "Retro Computer III -- FÄLLT AUS!", "`Abgesagt <https://trolug.titanpad.com/2016-04-28>`__" 
-  "2016-05-14", "Torben Keil", "Retro Computer II", "`Protokoll <https://trolug.titanpad.com/2016-04-14>`__" 
-  "2016-05-12", "Jonas Stein, Tobias Fröhlich", "Bash-Tricks und Versionskontrolle mit git Teil I+II", "`Protokoll <https://trolug.titanpad.com/2016-04-12>`__, `Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`__"   
-  "2016-04-07", "Alle", "Voice over IP (VoIP)", "`Protokoll <https://titanpad.com/TVsEReDjgI>`__" 
-  "2016-03-03", "Alle", "Retro Computer I", "`Protokoll <https://titanpad.com/CKenXL2ukg>`__" 
-  "2016-02-11", "Alle", "Platinen und elektronische Bauteile mit KiCad designen", "`Protokoll <https://titanpad.com/XXMqt9GilM>`__, `Vortragsfolien PDF <http://downloads.trolug.de/2016-02-11_trolug_carsten_schoenert_kicad.pdf>`__" 
-  "2016-01-07", "Alle", "1. Icecast 2. Bunter Abend - Austausch und Probleme lösen", "`Protokoll <https://titanpad.com/fJd6YWxvpe>`__" 
+  "2016-12-01", "Kay Malfeld", "Einstieg in Kernelprogrammierung und make files", " "
+  "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", " "
+  "2016-10-06", "Verschiedene", "Bash Kungfu", " "
+  "2016-09-01", "Verschiedene", "Editoren", " "
+  "2016-08-04", "Rainer Dohmen; Georg Maubach", "Mikrocontrollerprojekt Morse-Man; Access Points mit Einplatinenrechnern", " "
+  "2016-07-07", "Alle", "Gemeinsam Probleme lösen", " "
+  "2016-06-02", "Tobias Fröhlich", "git Teil III: Arbeiten in Teams und auf Servern", "`Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`__"
+  "2016-05-28", "Torben Keil", "Retro Computer III -- FÄLLT AUS!", " " 
+  "2016-05-14", "Torben Keil", "Retro Computer II", " "
+  "2016-05-12", "Jonas Stein, Tobias Fröhlich", "Bash-Tricks und Versionskontrolle mit git Teil I+II", "`Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`__"   
+  "2016-04-07", "Alle", "Voice over IP (VoIP)", " "
+  "2016-03-03", "Alle", "Retro Computer I", " "
+  "2016-02-11", "Alle", "Platinen und elektronische Bauteile mit KiCad designen", "`Vortragsfolien PDF <http://downloads.trolug.de/2016-02-11_trolug_carsten_schoenert_kicad.pdf>`__" 
+  "2016-01-07", "Alle", "1. Icecast 2. Bunter Abend - Austausch und Probleme lösen", " "
 
 
 2015
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 45, 20
 
   "2015-12-03", "Alle", "Spiele unter Linux", "`Protokoll <https://titanpad.com/eli3VxIytW>`__" 
@@ -156,7 +156,7 @@ Solange die Pandemie anhält treffen wir uns online.
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 50, 15
   
   "2014-12-04", "Jonas Stein", "OpenWRT - freie Firmware für Router", "`Protokoll </oldpads/2014-12-weihnachtsfeier.txt>`__, `Vortragsfolien <http://downloads.trolug.de/2014-12-04_trolug_jonas_stein_openwrt.pdf>`__"
@@ -179,7 +179,7 @@ Solange die Pandemie anhält treffen wir uns online.
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 50, 15
   
   "2013-12-05", "Jan Grosser", "Atmel AVR RISC mC unter GNU/Linux programmieren", "`Protokoll </oldpads/trolug-dezember-2013.txt>`__"
@@ -199,28 +199,28 @@ Solange die Pandemie anhält treffen wir uns online.
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 50, 15
 
-  "2012-12-06", "alle", "Rückblick FrOSCon und Weihnachtsfeier", "-"
-  "2012-11-01", "Julia Garske", "KMail, timidity u.a.", "-"
-  "2012-10-04", "alle", "offener Themenabend Manipulation von PDF-Dokumenten Arbeiten mit der Konsole", "-"
-  "2012-09-06", "Moritz und Moritz", "Hands On Emacs", "-"
-  "2012-08-02", "alle", "FrOSCon Organisation", "-"
-  "2012-07-05", "Jonas Stein", "Distributionen im Vergleich", "-"
-  "2012-06-07", "Julia Garske", "OpenWRT", "-"
+  "2012-12-06", "alle", "Rückblick FrOSCon und Weihnachtsfeier", " "
+  "2012-11-01", "Julia Garske", "KMail, timidity u.a.", " "
+  "2012-10-04", "alle", "offener Themenabend Manipulation von PDF-Dokumenten Arbeiten mit der Konsole", " "
+  "2012-09-06", "Moritz und Moritz", "Hands On Emacs", " "
+  "2012-08-02", "alle", "FrOSCon Organisation", " "
+  "2012-07-05", "Jonas Stein", "Distributionen im Vergleich", " "
+  "2012-06-07", "Julia Garske", "OpenWRT", " "
   "2012-05-03", "alle", "Präsentationen mit LaTeX, GNU-R, Unterschied su und sudo, QR-Codes, de- und encodieren, Bash-History", "`Protokoll </oldpads/trolug-mai-2012.txt>`__"
-  "2012-04-05", "alle", "offener Themenabend", "-"
-  "2012-03-01", "alle", "1. GIMP 2. QLandkarte", "-"
-  "2012-02-02", "alle", "LibreOffice/OpenOffice - Tipps u. Tricks", "-"
-  "2012-01-05", "alle", "Workshop Wireshark Netzwerkanalyse", "-"
+  "2012-04-05", "alle", "offener Themenabend", " "
+  "2012-03-01", "alle", "1. GIMP 2. QLandkarte", " "
+  "2012-02-02", "alle", "LibreOffice/OpenOffice - Tipps u. Tricks", " "
+  "2012-01-05", "alle", "Workshop Wireshark Netzwerkanalyse", " "
 
 
 2011
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 50, 15
 
   "2011-11-03", "Johannes Hubertz",  "Linux mit iptables sichern",  " "	
@@ -242,7 +242,7 @@ Solange die Pandemie anhält treffen wir uns online.
 2010
 ----
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 50, 15
 
 
@@ -268,7 +268,7 @@ Solange die Pandemie anhält treffen wir uns online.
 ----
 
 .. csv-table::
-  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Protokoll"
   :widths: 15, 20, 50, 15
 
 
