@@ -5,7 +5,7 @@
 .. link:
 .. description: Terminliste der TroLUG
 
-Solange die Pandemie anhält treffen wir uns online.
+Seit 2020 treffen wir uns meist online, Details stehen im jeweiligen Termin.
 
 2024
 ----
