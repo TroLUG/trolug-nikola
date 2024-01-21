@@ -12,13 +12,8 @@ denn bei Problemen und Fragen finden sich so möglichst viele Helfer und sie sin
 
 Im privaten Bereich ist Linux Mint Mate / Cinnamon besonders stark verbreitet.
 
-Die aktuellste Version 20 Linux Mint Ulyana ist ein "Long term support release" (LTS) welches bis April 2025 unterstützt wird.
-[Stand 2020-09-07)
 
 * https://linuxmint.com/ 
-
-
- 
 * https://distrowatch.com/ Vergleicht Linux Distributionen (für die schon erste Erfahrungen gesammelt haben)
    
 
@@ -33,8 +28,7 @@ Welche Hardware wird unterstützt?
 Kann ich Linux auch ausprobieren?
 ---------------------------------
 
-Mit einen Live System von CD/DVD kann man ohne Installation Linux laufen lassen
-z.B. hier erhältlich  https://www.knopper.net/knoppix/ 
+Mit einen Live System von CD/DVD kann man ohne Installation Linux laufen lassen.
 
 Mit einen Live-System kann mit folgenden Befehl seine Hardware mit Linux identifizieren:
 
@@ -45,9 +39,6 @@ Welcher Drucker wird optimal unterstützt?
 * https://www.openprinting.org/printer_list.cgi (en)
 * http://gutenprint.sourceforge.net/p_Supported_Printers.php (en)
 
-Messtechnik für Linux
----------------------
-* http://www.comedi.org/hardware.html (en)
    
 Von SANE unterstützte Scanner
 -----------------------------
@@ -62,21 +53,3 @@ Wo ist die Anleitung zu Programm ``foobar`` (Beispiel)
 * auf der Konsole ``man foobar`` oder ``info foobar`` eingeben.
 * das Programm mit ``foobar --help`` aufrufen
 * im Ordner ``/usr/share/doc/foobar`` finden sich in der Regel Handbücher und Beispiele
-
-Wo finde ich den IRC Channel der TroLUG?
-----------------------------------------
-Auf `Libera.Chat <https://libera.chat/>`_ existiert der Channel #trolug, in welchem
-sich TroLUGer und Interessierte zu den verschiedensten Themen schnell und in
-Echtzeit austauschen können. 
-
-* #trolug per IRC Client irc://irc.libera.chat/trolug
-* `#trolug per Webclient mibbit <https://chat.mibbit.com/?url=irc%3A%2F%2Firc.libera.chat%2Ftrolug>`_
-
-
-Empfehlenswerte IRC-Programme
------------------------------
-
-* https://pidgin.im Pidgin, der universelle Multi-Protokoll Client
-* https://www.quassel-irc.org/ Quassel IRC, moderner, distributed IRC-Client
-* https://irssi.org/ Irssi, flexibel anpassbarer IRC-Client für die Konsole
-* https://weechat.org/ WeeChat, schneller, schlanker und erweiterbarer Chat Client für die Konsole

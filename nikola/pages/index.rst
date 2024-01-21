@@ -1,6 +1,6 @@
 .. title: Willkommen bei der Troisdorfer Linux User Group
 .. slug: index
-.. date: 1970-01-01 00:00:00 UTC
+.. date: 2024-01-05 00:00:00 UTC
 .. tags:
 .. link:
 .. description: Troisdorfer Linux User Group
@@ -23,8 +23,6 @@ Mitmachen
 ---------
 
 Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im 
-Agnes Klein Zentrum der Arbeiterwohlfahrt in Troisdorf.
+Agnes Klein Zentrum der Arbeiterwohlfahrt in Troisdorf oder Online.
 
-Wir tauschen uns auf einer :doc:`Mailingliste` aus.
-
-
+Wir tauschen uns auf einer :doc:`Mailingliste` und per :doc:`Chat` aus. 
