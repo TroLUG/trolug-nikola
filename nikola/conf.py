@@ -146,6 +146,7 @@ NAVIGATION_LINKS = {
         ("/gruppen.html", "Andere Gruppen"),
         ("/hilfe.html", "Hilfe"),
         ("/mailingliste.html", "Mailingliste"),
+        ("/chat.html", "Chat"),
         ("/impressum.de.html", "Impressum"),
         ("/datenschutz.de.html", "Datenschutzinformation"),
         ("/rss.xml", "RSS-Feed"),
